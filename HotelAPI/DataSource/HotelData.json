@@ -1,0 +1,242 @@
+[
+  {
+    "HotelId": 1,
+    "Rating": 4.1,
+    "HotelName": "Park Plaza Westminster Bridge London",
+    "Address": {
+      "Town": "Lambeth",
+      "Region": "London",
+      "Postcode": "SE1 7UT"
+    },
+    "PhoneNumber": "7383627627",
+    "Description": "Located on the South Bank of the Thames, Park Plaza Westminster Bridge London is set opposite the Houses of Parliament and Big Ben, on the South Bank. It is less than a 5-minute walk from the London Eye, the Aquarium, restaurants and theatres."
+  },
+  {
+    "HotelId": 2,
+    "Rating": 3.5,
+    "HotelName": "Strand Palace Hotel",
+    "Address": {
+      "Town": "Westminster Borough",
+      "Region": "London",
+      "Postcode": "WC2R 0JJ"
+    },
+    "PhoneNumber": "7383444555",
+    "Description": "Welcoming guests since 1909, the Strand Palace Hotel is located in Londons West End within just 750 yards of the Adelphi and the Vaudeville theatres. The hotel is home to 2 on-site bars offering cocktails and afternoon tea, and a restaurant serving British cuisine."
+  },
+  {
+    "HotelId": 3,
+    "Rating": 4.7,
+    "HotelName": "Montcalm Royal London House",
+    "Address": {
+      "Town": "Islington",
+      "Region": "London",
+      "Postcode": "EC2A 1DX"
+    },
+    "PhoneNumber": "7383620000",
+    "Description": "Enjoying a central location in the heart of London, right next to Finsbury Square Garden and a short walk from Liverpool Street, Montcalm Royal London House-City of London offers free WiFi, a rooftop bar with spectacular views of the city and a spa."
+  },
+  {
+    "HotelId": 4,
+    "Rating": 5.0,
+    "HotelName": "Zedwell Piccadilly",
+    "Address": {
+      "Town": "Piccadilly Circus",
+      "Region": "London",
+      "Postcode": "W1D 7DH"
+    },
+    "PhoneNumber": "7383627447",
+    "Description": "The hotel, housed in the famous London Trocadero is designed to focus on rest and relaxation. Each room built to remove distractions that disturb sleep such as windows, complicated technology and anxiety inducing controls. Rooms are fully air-conditioned with air purification technology, high-speed WiFi and en-suite shower rooms."
+  },
+  {
+    "HotelId": 5,
+    "Rating": 3.5,
+    "HotelName": "Park Plaza London Riverbank",
+    "Address": {
+      "Town": "Lambeth",
+      "Region": "London",
+      "Postcode": "SE1 7TJ"
+    },
+    "PhoneNumber": "7000007627",
+    "Description": "Located on the south side of the River Thames, 700 yards from the London Underground, Park Plaza London Riverbank has free WiFi and air-conditioned rooms with flat-screen TVs."
+  },
+  {
+    "HotelId": 6,
+    "Rating": 4.5,
+    "HotelName": "Holiday Inn London Kensington",
+    "Address": {
+      "Town": "Kensington and Chelsea",
+      "Region": "London",
+      "Postcode": "W8 5SP"
+    },
+    "PhoneNumber": "7311620027",
+    "Description": "The spacious rooms at Holiday Inn London Kensington High St. come with a satellite TV, and each is fitted with carpeted floors and wooden furniture. All include a personal safe and a tea/coffee maker."
+  },
+  {
+    "HotelId": 7,
+    "Rating": 3.5,
+    "HotelName": "Pullman London St Pancras",
+    "Address": {
+      "Town": "Camden",
+      "Region": "London",
+      "Postcode": "NW1 2AJ"
+    },
+    "PhoneNumber": "7383555627",
+    "Description": "The 4-star Pullman St Pancras is a 3-minute walk from the Eurostar terminal and 5 minutes' walk from Kings Cross and Euston Underground and train stations, and has recently undergone a GBP 13 million transformation."
+  },
+  {
+    "HotelId": 8,
+    "Rating": 4.0,
+    "HotelName": "Pullman London St Pancras",
+    "Address": {
+      "Town": "Euston Road, Camden",
+      "Region": "London",
+      "Postcode": "NW1 2AJ"
+    },
+    "PhoneNumber": "7383627427",
+    "Description": "Pullman London St Pancras is well placed in Central London, adjacent to the British Library. The British Museum, Covent Garden, Oxford Street, West End and The City are only 10 minutes away by Tube."
+  },
+  {
+    "HotelId": 9,
+    "Rating": 3.9,
+    "HotelName": "Holiday Inn London Kensington",
+    "Address": {
+      "Town": "Kensington and Chelsea",
+      "Region": "London",
+      "Postcode": "W8 5SP"
+    },
+    "PhoneNumber": "7386627627",
+    "Description": "Just 2 minutes’ walk from Kensington High Street, the Holiday Inn London Kensington High St. offers air-conditioned rooms with en suite bathrooms and free access to the gym. It has Spa centre and a 24-hour front desk. Hyde Park is a 10-minute walk away."
+  },
+  {
+    "HotelId": 10,
+    "Rating": 5,
+    "HotelName": "The Guardsman - Preferred Hotels and Resorts",
+    "Address": {
+      "Town": "Westminster Borough",
+      "Region": "London",
+      "Postcode": "SW1H 0AH"
+    },
+    "PhoneNumber": "7386627627",
+    "Description": "Set in London, 450 yards from Buckingham Palace, The Guardsman - Preferred Hotels and Resorts features a bar and views of the city. Among the facilities of this property are a restaurant, a 24-hour front desk and room service, along with free WiFi. The hotel features family rooms."
+  },
+  {
+    "HotelId": 11,
+    "Rating": 4.8,
+    "HotelName": "Thistle Trafalgar Square",
+    "Address": {
+      "Town": "Trafalgar Square,",
+      "Region": "London",
+      "Postcode": "WC2H 7HG"
+    },
+    "PhoneNumber": "7386627627",
+    "Description": "Thistle Trafalgar Square is located on a quiet street just off London's lively Leicester Square. It is next to the National Portrait Gallery, in the middle of the West End and the famous Theatreland area. China Town is just 2 minutes' stroll away, Covent Garden is 10 minutes' walk, and Piccadilly Circus is a 5-minute walk."
+  },
+  {
+    "HotelId": 12,
+    "Rating": 4.1,
+    "HotelName": "Kings Westminster London Hotel",
+    "Address": {
+      "Town": "Lambeth",
+      "Region": "London",
+      "Postcode": "SE1 7GR"
+    },
+    "PhoneNumber": "7383688627",
+    "Description": "Located on the South Bank of the Thames, Park Plaza Westminster Bridge London is set opposite the Houses of Parliament and Big Ben, on the South Bank. It is less than a 5-minute walk from the London Eye, the Aquarium, restaurants and theatres."
+  },
+  {
+    "HotelId": 13,
+    "Rating": 3.5,
+    "HotelName": "Strand Palace Hotel",
+    "Address": {
+      "Town": "Westminster Borough",
+      "Region": "London",
+      "Postcode": "WC2R 0JJ"
+    },
+    "PhoneNumber": "7383444555",
+    "Description": "Welcoming guests since 1909, the Strand Palace Hotel is located in Londons West End within just 750 yards of the Adelphi and the Vaudeville theatres. The hotel is home to 2 on-site bars offering cocktails and afternoon tea, and a restaurant serving British cuisine."
+  },
+  {
+    "HotelId": 14,
+    "Rating": 4.7,
+    "HotelName": "Montcalm Royal London House",
+    "Address": {
+      "Town": "Islington",
+      "Region": "London",
+      "Postcode": "EC2A 1DX"
+    },
+    "PhoneNumber": "7383620000",
+    "Description": "Enjoying a central location in the heart of London, right next to Finsbury Square Garden and a short walk from Liverpool Street, Montcalm Royal London House-City of London offers free WiFi, a rooftop bar with spectacular views of the city and a spa."
+  },
+  {
+    "HotelId": 15,
+    "Rating": 5.0,
+    "HotelName": "Zedwell Piccadilly",
+    "Address": {
+      "Town": "Piccadilly Circus",
+      "Region": "London",
+      "Postcode": "W1D 7DH"
+    },
+    "PhoneNumber": "7383627447",
+    "Description": "The hotel, housed in the famous London Trocadero is designed to focus on rest and relaxation. Each room built to remove distractions that disturb sleep such as windows, complicated technology and anxiety inducing controls. Rooms are fully air-conditioned with air purification technology, high-speed WiFi and en-suite shower rooms."
+  },
+  {
+    "HotelId": 16,
+    "Rating": 3.5,
+    "HotelName": "Park Plaza London Riverbank",
+    "Address": {
+      "Town": "Lambeth",
+      "Region": "London",
+      "Postcode": "SE1 7TJ"
+    },
+    "PhoneNumber": "7000007627",
+    "Description": "Located on the south side of the River Thames, 700 yards from the London Underground, Park Plaza London Riverbank has free WiFi and air-conditioned rooms with flat-screen TVs."
+  },
+  {
+    "HotelId": 17,
+    "Rating": 4.5,
+    "HotelName": "Holiday Inn London Kensington",
+    "Address": {
+      "Town": "Kensington and Chelsea",
+      "Region": "London",
+      "Postcode": "W8 5JP"
+    },
+    "PhoneNumber": "7311620027",
+    "Description": "The spacious rooms at Holiday Inn London Kensington High St. come with a satellite TV, and each is fitted with carpeted floors and wooden furniture. All include a personal safe and a tea/coffee maker."
+  },
+  {
+    "HotelId": 18,
+    "Rating": 3.5,
+    "HotelName": "Pullman London St Pancras",
+    "Address": {
+      "Town": "Camden",
+      "Region": "London",
+      "Postcode": "NW1 2ZJ"
+    },
+    "PhoneNumber": "7383555627",
+    "Description": "The 4-star Pullman St Pancras is a 3-minute walk from the Eurostar terminal and 5 minutes' walk from Kings Cross and Euston Underground and train stations, and has recently undergone a GBP 13 million transformation."
+  },
+  {
+    "HotelId": 19,
+    "Rating": 4.0,
+    "HotelName": "Pullman London St Pancras",
+    "Address": {
+      "Town": "Euston Road, Camden",
+      "Region": "London",
+      "Postcode": "NW1 2BJ"
+    },
+    "PhoneNumber": "7383627427",
+    "Description": "Pullman London St Pancras is well placed in Central London, adjacent to the British Library. The British Museum, Covent Garden, Oxford Street, West End and The City are only 10 minutes away by Tube."
+  },
+  {
+    "HotelId": 20,
+    "Rating": 3.9,
+    "HotelName": "Holiday Inn London Kensington",
+    "Address": {
+      "Town": "Kensington and Chelsea",
+      "Region": "London",
+      "Postcode": "W8 5RP"
+    },
+    "PhoneNumber": "7386627627",
+    "Description": "Just 2 minutes’ walk from Kensington High Street, the Holiday Inn London Kensington High St. offers air-conditioned rooms with en suite bathrooms and free access to the gym. It has Spa centre and a 24-hour front desk. Hyde Park is a 10-minute walk away."
+  }
+]
